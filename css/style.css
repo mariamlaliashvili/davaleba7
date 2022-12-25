@@ -74,6 +74,7 @@ section{
     background-color: rgb(197, 203, 203);
     align-items: center;
 }
+
 footer{
     display: flex;
     justify-content: space-between;
@@ -81,4 +82,6 @@ footer{
 .tbilisi{
     margin-top: 30px;
 }
+
+
 
