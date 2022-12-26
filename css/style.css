@@ -50,7 +50,7 @@ section{
    position: absolute;
    color: yellow; 
    font-size: 20px;
-   top: 350px;
+   top: 300px;
    margin-left: 500px;
 }
 .section2{
@@ -73,6 +73,24 @@ section{
     margin-top: 100px;
     background-color: rgb(197, 203, 203);
     align-items: center;
+}
+.photo{
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
+.fa-cart-plus{
+    display: flex;
+    justify-content: flex-end;
+    
+    flex-wrap: wrap;
+}
+p{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+margin-top: 50px;
+font-size: 30px;
 }
 
 footer{
